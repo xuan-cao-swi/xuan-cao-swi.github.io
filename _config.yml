@@ -5,7 +5,8 @@ header-img: img/grey-background.jpg
 email: danis.cao.xuan@gmail.com
 description: "Xuan Cao Blog for Tech Post"
 keyword: "Xuan Cao, Cybersecurity, Software Engineer, Bioinformatics"
-url: "https://xuancao.ca" # your host, for absolute URL
+# url: "https://xuancao.ca" # your host, for absolute URL
+url: https://xuan-cao-swi.github.io
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
